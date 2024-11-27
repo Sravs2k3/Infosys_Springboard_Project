@@ -17,3 +17,10 @@ Documentation 📖: Comprehensive guide for replication and learning.
 💡 Why This Project?
 This dashboard demonstrates the power of Power BI in simplifying financial forecasting, making it an essential tool for data enthusiasts and professionals. ⚡
 
+
+![image](https://github.com/user-attachments/assets/46688555-471e-4bc7-ba25-8efd254b3826)
+
+
+
+
+
