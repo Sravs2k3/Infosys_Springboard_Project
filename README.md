@@ -21,6 +21,11 @@ This dashboard demonstrates the power of Power BI in simplifying financial forec
 ![image](https://github.com/user-attachments/assets/46688555-471e-4bc7-ba25-8efd254b3826)
 
 
+Project References: 
 
+Presentation Link: 
+https://docs.google.com/presentation/d/1Vc_GESlVhVzBiX_NaO0OajoRww0vaMvP/edit?usp=sharing&ouid=103076718365375614348&rtpof=true&sd=true
+Dashboard: 
+https://drive.google.com/file/d/1ylMaqp1MFFPjYLPyBzdiFz-heiB5pp9n/view?usp=sharing
 
 
